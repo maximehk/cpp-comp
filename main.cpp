@@ -18,3 +18,5 @@
 #define REP(i, n) FOR(i, 0, n)
 #define ROF(i, a, b) for (int i = (b)-1; i >= (a); --i)
 #define PER(i, n) ROF(i, 0, n)
+
+using namespace std;
